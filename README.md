@@ -1,5 +1,14 @@
 # README
+#Add devise gem
 
+<img width="1512" alt="Screen Shot 1443-07-20 at 7 24 22 PM" src="https://user-images.githubusercontent.com/97739922/155028357-1dfe3037-ff85-4018-a018-bf92ea90b082.png">
+
+
+
+
+
+
+# CRUD Operations:
 create user:
 <img width="1512" alt="Screen Shot 1443-06-23 at 8 03 57 AM" src="https://user-images.githubusercontent.com/97739922/151107461-5962ad85-a0de-424d-a593-020745b66cce.png">
 
